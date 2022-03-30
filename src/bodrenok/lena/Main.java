@@ -7,4 +7,8 @@ public class Main {
         System.out.println("Bye!");
         System.out.println("Message");
     }
+    
+    public static void another() {
+        System.out.println("Another method");
+    }
 }
